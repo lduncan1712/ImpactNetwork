@@ -4,6 +4,10 @@ A Data Collection and Formatting Project To Extract Insight From The Perceived I
 
 
 
+https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c-baa7-61e4bd5a168f.mp4
+
+
+
 
 
 
@@ -37,7 +41,12 @@ A Data Collection and Formatting Project To Extract Insight From The Perceived I
 
 
 ### Weights (1-4) (Simplest To Most Complex)
-#### Wight2
+#### Weight (1,2)
+#####   S<sub>1</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple sum)
+#####   S<sub>2</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple product)
+(the following weights have different cases depending on participation)
+#####   S<sub>2</sub>(s<sub>1</sub>, s<sub>2</sub>) = 
+
   
   
   
