@@ -41,11 +41,11 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 
 
 ### Weights (1-4) (Simplest To Most Complex)
-#### Weight (1,2)
-#####   S<sub>1</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple sum)
-#####   S<sub>2</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple product)
-(the following weights have different cases depending on participation)
-#####   S<sub>2</sub>(s<sub>1</sub>, s<sub>2</sub>) = 
+#####   &emsp;&emsp; S<sub>1</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple sum)
+#####  &emsp;&emsp;  S<sub>2</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple product)
+##### &emsp; (the following weights have different cases, case1 = both nodes participate, case 2 = only one)
+##### &emsp;&emsp;  S<sub>3</sub> = (s<sub>1</sub>/et<sub>1</sub>) + (s<sub>2</sub>/et<sub>2</sub>)
+##### &emsp;&emsp;&emsp;&emsp;    = (s<sub>1</sub
 
   
   
