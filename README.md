@@ -29,7 +29,20 @@ A Data Collection and Formatting Project To Extract Insight From The Perceived I
 
 
 ## Weighting/Scaling Edges (5):
+#### The Debatably Most Important Portion Of This Process Is Correctly Scaling The Edges Using The Data Given
+#### To This End, I Have Formulated 4 Possible Weighting Calculations (That Each Emphasize A Certain Aspect, But Possess A Respective Downside)
   
+### Goals And Axioms That Form The Basis Of These Calculations
+#### [EdgeWeighting+Scaling(2).pdf](https://github.com/lduncan1712/ImpactNetwork/files/10356074/EdgeWeighting%2BScaling.2.pdf)
+
+
+### Weights (1-4) (Simplest To Most Complex)
+#### Wight2
+  
+  
+  
+## GEPHI (6,7)
+### File ______________ provides various oportunities to create visualizations, allowing choice to preconstructved weight, directed/undirected, and dynamic/undynamic
 
 
 
