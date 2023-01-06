@@ -56,7 +56,20 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
   
   
 ## GEPHI (6,7)
-### File ______________ provides various oportunities to create visualizations, allowing choice to preconstructved weight, directed/undirected, and dynamic/undynamic
+### File https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(4)_CREATE_CSV.sql provides various oportunities to create visualizations, allowing choice to preconstructved weight, directed/undirected, and dynamic/undynamic
+
+
+
+## TAKEAWAYS
+
+
+
+
+
+
+
+## REPLICATION AND MODIFICATION
+
 
 
 
