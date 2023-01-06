@@ -72,6 +72,8 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 
 (Time Of First Reference (Inclusion))
 ![inclusionRow](https://user-images.githubusercontent.com/113392258/211074595-f8fe1421-cb2d-4ad8-825a-c0b0e44243b8.png)
+(Sized By Degree)
+![degree(1)](https://user-images.githubusercontent.com/113392258/211087231-604b07b1-974a-4f43-bdae-e96772d67a6d.png)
 
 
 
