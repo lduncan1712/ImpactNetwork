@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 
 
 ## REPLICATION AND MODIFICATION
-
+1) Replicate "impact_network" Database (or Modify) using [impact_network_(1)_CREATE_DB.sql](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(1)_CREATE_DB.sql)
 
 
 
