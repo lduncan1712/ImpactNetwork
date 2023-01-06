@@ -13,13 +13,8 @@ INSERT INTO impact_network.edge_tier(id, name, relative_strength) VALUES
                                                  (3, "High Impact", 4),
                                                  (4, "Highest Impact", 5);
                                                  
-                                                 
-INSERT INTO impact_network.trait0(id, name) VALUES (1, "Allan A. Greenleaf"),
-								  (2, "Balaclava"),
-                                  (3, "Flamborough Centre"),
-                                  (4, "Guy B. Brown"),
-                                  (5, "Spencer Valley/Greensville"),
-                                  (6, "Other");
+-- (Removed For Privacy)                                                 
+INSERT INTO impact_network.trait0(id, name) VALUES (1, "_____"), ...;
 
 INSERT INTO impact_network.trait1(id, duration, years) VALUES (1, "THIS YEAR", 1),
 												(2, "LAST YEAR", 2),
@@ -29,7 +24,7 @@ INSERT INTO impact_network.trait1(id, duration, years) VALUES (1, "THIS YEAR", 1
                                                 
 
 INSERT INTO impact_network.trait2(id, name) VALUES (1, "College"),
-									(2, "Directly Enter Workforce"),
+				(2, "Directly Enter Workforce"),
                                     (3, "Entrepreneurship"),
                                     (4, "Military Service"),
                                     (5, "Skilled Trades"),
@@ -37,10 +32,10 @@ INSERT INTO impact_network.trait2(id, name) VALUES (1, "College"),
                                     (7, "Other");
                                     
 INSERT INTO impact_network.trait3(id, name) VALUES (1, "I"),
-									(2, "E");
-			
-INSERT INTO impact_network.trait4(id, name) VALUES (1, "M"),
-									(2, "F");
+						   (2, "E");
+-- (Removed For Privacy)	
+INSERT INTO impact_network.trait4(id, name) VALUES (1, "____"), ...;
+						   
                                     
 
                                     
