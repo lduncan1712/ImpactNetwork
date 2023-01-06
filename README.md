@@ -36,8 +36,8 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 #### The Debatably Most Important Portion Of This Process Is Correctly Scaling The Edges Using The Data Given
 #### To This End, I Have Formulated 4 Possible Weighting Calculations (That Each Emphasize A Certain Aspect, But Possess A Respective Downside)
   
-### Goals And Axioms That Form The Basis Of These Calculations
-#### [EdgeWeighting+Scaling(2).pdf](https://github.com/lduncan1712/ImpactNetwork/files/10356074/EdgeWeighting%2BScaling.2.pdf)
+### Goals And Axioms That Form The Basis Of This Relatively Intuitive Logic
+#### &emsp; [Axioms.pdf](https://github.com/lduncan1712/ImpactNetwork/files/10356074/EdgeWeighting%2BScaling.2.pdf)
 
 
 ### Weights (1-4) (Simplest To Most Complex)
