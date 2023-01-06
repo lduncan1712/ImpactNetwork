@@ -41,11 +41,16 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 
 
 ### Weights (1-4) (Simplest To Most Complex)
-#####   &emsp;&emsp; S<sub>1</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple sum)
-#####  &emsp;&emsp;  S<sub>2</sub>(s<sub>1</sub>, s<sub>2</sub>) = s<sub>1</sub> + s<sub>2</sub>    (simple product)
+#####   &emsp;&emsp; S<sub>1</sub> = s<sub>1</sub> + s<sub>2</sub>    (simple sum)
+#####  &emsp;&emsp;  S<sub>2</sub> = s<sub>1</sub> + s<sub>2</sub>    (simple product)
 ##### &emsp; (the following weights have different cases, case1 = both nodes participate, case 2 = only one)
-##### &emsp;&emsp;  S<sub>3</sub> = (s<sub>1</sub>/et<sub>1</sub>) + (s<sub>2</sub>/et<sub>2</sub>)
-##### &emsp;&emsp;&emsp;&emsp;    = (s<sub>1</sub
+##### &emsp;&emsp;  S<sub>3</sub> = (s<sub>1</sub>/et<sub>1</sub>) + (s<sub>2</sub>/et<sub>2</sub>) &emsp; (gives each participating node an influence of 1)
+##### &emsp;&emsp;&emsp;&emsp;    = (s<sub>1</sub>/et<sub>1</sub>)
+
+#### &emsp;&emsp;   S<sub>4</sub> = (s<sub>1</sub>/et<sub>1</sub>)*(s<sub>2</sub>/et<sub>2</sub>)*(s<sub>1</sub>*s<sub>2</sub>)  &emsp; (scaled product: combining exponential reciprocity with relative importance)
+#### &emsp;&emsp;&emsp;&emsp;     = (s<sub>1</sub>/et<sub>1</sub>)*(s<sub>1</sub>)*2
+
+#### (where s<sub>n</sub> refers to directed outward strength of node n on this edge, and et<sub>n</sub> refers to the sum of node n's directed outward strength among all its outward edges
 
   
   
