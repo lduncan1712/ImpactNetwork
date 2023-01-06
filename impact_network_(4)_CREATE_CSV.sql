@@ -35,11 +35,6 @@ use impact_network;
                 sumEdgeOut as SumOut
 		FROM nodes
         WHERE inclusion_row > 0 and participation_row < 1;
-			
-
-
-
-
 -- -----------------------------------------------------------------------
 -- EDGE TABLE (UNCOMMENT ONE, SELECT PREFERED strengthN as WEIGHT)
 -- -----------------------------------------------------------------------
@@ -113,16 +108,6 @@ use impact_network;
                         node1 as Target,
                         strength4 / 2 as Weight
                         from edges where node2rank > 0;
-					
-                
-
-                        
-                        
-        
-        
-        
-        
-        
 		-- -----------------------------------------------------------------------
 		-- NON DIRECTIONAL (Single Undirected Edge Marking Shared Relationship)
 		-- -----------------------------------------------------------------------
@@ -148,18 +133,3 @@ use impact_network;
                       strength4 as Weight
 			  FROM edges 
               WHERE node1 > 0;
-
-
-
-
-
-
-
-
-
-
-
-
-
---
-
