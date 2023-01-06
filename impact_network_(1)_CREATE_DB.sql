@@ -44,8 +44,8 @@ CREATE TABLE impact_network.nodes(
 	id INT,
 	f_name VARCHAR(30),
 	l_name VARCHAR(30),
-	participation_row INT DEFAULT 0,  -- ddddddddddddddddddddddddddddddd
-	inclusion_row INT DEFAULT 0,      -- ddddddddddddddddddddddddddddddd
+	participation_row INT DEFAULT 0,  
+	inclusion_row INT DEFAULT 0,     
     trait0 int,
     trait1 INT,
     trait2 INT,
