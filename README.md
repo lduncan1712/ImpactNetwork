@@ -66,9 +66,12 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 ![previous](https://user-images.githubusercontent.com/113392258/211068082-5c042301-5634-4143-b9d7-698bb2cd8dea.png)
 (Coloured By Modularity Class (0.75)
 ![0 75](https://user-images.githubusercontent.com/113392258/211068118-7165b9ff-b590-420d-b9f2-d87c36855e85.png)
+
 (Coloured By Modularity Class (2.5)
 ![2 5](https://user-images.githubusercontent.com/113392258/211068243-22236971-f09d-4d43-bc5c-550b30b95b8e.png)
 
+(Time Of First Reference (Inclusion))
+![inclusionRow](https://user-images.githubusercontent.com/113392258/211074595-f8fe1421-cb2d-4ad8-825a-c0b0e44243b8.png)
 
 
 
