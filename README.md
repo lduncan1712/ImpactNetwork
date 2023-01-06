@@ -61,6 +61,7 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 
 
 ## TAKEAWAYS
+### [MAIN TAKEAWAYS (QUANTATATIVE)](https://github.com/lduncan1712/ImpactNetwork/blob/main/mainTakeAways%20(QUANTATATIVE))
 (Coloured By Previous)
 ![previous](https://user-images.githubusercontent.com/113392258/211068082-5c042301-5634-4143-b9d7-698bb2cd8dea.png)
 (Coloured By Modularity Class (0.75)
