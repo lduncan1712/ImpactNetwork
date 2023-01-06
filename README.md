@@ -75,22 +75,22 @@ https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c
 
 ## REPLICATION AND MODIFICATION
 ### Anyone interested in modifying or replicating this project follow these steps
-####1) Replicate "impact_network" Database (or Modify) using [impact_network_(1)_CREATE_DB.sql](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(1)_CREATE_DB.sql)
+#### 1) Replicate "impact_network" Database (or Modify) using [impact_network_(1)_CREATE_DB.sql](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(1)_CREATE_DB.sql)
 
-####2) Insert starting entries to it using [starting entries](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(1)_STARTINGENTRIES.sql), as well as adding file containing all participant names as "nodes"
+#### 2) Insert starting entries to it using [starting entries](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(1)_STARTINGENTRIES.sql), as well as adding file containing all participant names as "nodes"
 
-####3) Create Stored Procedures Required By "BridgeApplication3" To impact_network Using 
+#### 3) Create Stored Procedures Required By "BridgeApplication3" To impact_network Using 
 [Procedure1](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(2)_GETIDSTOWEIGH.sql)    and [Procedure2](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(2)_WEIGHBYSC2SCORE.sql)
 
-####4) Convert Survey Responses (and Match) using [BridgeApplication3](https://github.com/lduncan1712/BridgeApplication3)
+#### 4) Convert Survey Responses (and Match) using [BridgeApplication3](https://github.com/lduncan1712/BridgeApplication3)
 
-####5) Complete Post Conversion Final Formatting (to differentiate neglected vs non participant) using [SetUnreferencedTo-1](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(3)_POST_FORMATTING.sql)
+#### 5) Complete Post Conversion Final Formatting (to differentiate neglected vs non participant) using [SetUnreferencedTo-1](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(3)_POST_FORMATTING.sql)
 
-####6) Set overall Edge Strength using [SetFinalEdgeStrength](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(3)_POST_STRENGTH_DEFINITION.sql)
+#### 6) Set overall Edge Strength using [SetFinalEdgeStrength](https://github.com/lduncan1712/ImpactNetwork/blob/main/impact_network_(3)_POST_STRENGTH_DEFINITION.sql)
 
-####7) Create CSV file to be used by Gephi for visualization [MakeCSV](https://github.com/lduncan1712/ImpactNetwork/blob/1738bbff3d6ee3ce7d1b641a183df3e99ca0ecfe/impact_network_(4)_CREATE_CSV.sql)
+#### 7) Create CSV file to be used by Gephi for visualization [MakeCSV](https://github.com/lduncan1712/ImpactNetwork/blob/1738bbff3d6ee3ce7d1b641a183df3e99ca0ecfe/impact_network_(4)_CREATE_CSV.sql)
 
-####8) Run Additional Calculations (Optional)
+#### 8) Run Additional Calculations (Optional)
 
 
 
