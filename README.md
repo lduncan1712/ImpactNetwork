@@ -4,7 +4,6 @@ A Data Collection and Formatting Project To Extract Insight From The Perceived I
 
 
 
-https://user-images.githubusercontent.com/113392258/210892492-3f08e347-5d81-432c-baa7-61e4bd5a168f.mp4
 
 
 
